@@ -1,0 +1,19 @@
+{
+  "name": "living",
+  "description": "Observes if web services are still alive.",
+  "author": {
+    "name": "André König",
+    "email": "andre.koenig@konexmedia.com"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "url": "git@github.com:konexmedia/living.git"
+  },
+  "bin": "./index.js",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "cli-table": "^0.3.0",
+    "http-https": "^1.0.0"
+  }
+}
