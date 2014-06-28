@@ -1,4 +1,4 @@
-# 1.0.1 (2014-06-28)
+# UNRELEASED
 
   * Clear HTTP response status code if service is offline.
 

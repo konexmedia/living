@@ -39,7 +39,7 @@ function refresh () {
             creature.name.red,
             creature.uri.red,
             'Offline'.red,
-            (creature.status || '-').toString().red,
+            '-'.red,
             creature.interval.toString().red
         ];
 
